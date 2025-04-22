@@ -88,4 +88,4 @@ python test_debug.py
 ---
 
 ## Author
-Chumani
+Chumani Tikili
